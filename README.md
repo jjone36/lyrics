@@ -9,3 +9,4 @@ This is a repository for the text mining project to predict the gender of singer
 
 > Publication: 
 - “What Songs Tell Us About: Text Mining with Lyrics”, Oct 16, 2018. Toward Data Science  
+- URL: https://towardsdatascience.com/what-songs-tell-us-about-text-mining-with-lyrics-ca80f98b3829
